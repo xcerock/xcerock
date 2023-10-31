@@ -28,15 +28,15 @@
   <p>
     <img
       style="margin: 10px"
-      src="https://github-readme-stats.vercel.app/api?username=SebastianAMo&show_icons=true&locale=en&count_private=true&theme=chartreuse-dark"
-      alt="SebastianAMo"
+      src="https://github-readme-stats.vercel.app/api?username=xcerock&show_icons=true&locale=en&count_private=true&theme=chartreuse-dark"
+      alt="xcerock"
     />
   </p>
   <p>
     <img
       align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianAMo&theme=chartreuse-dark"
-      alt="SebastianAMo"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=xcerock&theme=chartreuse-dark"
+      alt="xcerock"
     />
   </p>
 </div>
