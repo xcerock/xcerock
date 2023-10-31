@@ -4,15 +4,15 @@
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=xcerock&label=Profile%20views&color=0cce00&style=for-the-badge"
-    alt="SebastianAMo"
+    alt="xcerock"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=SebastianAMo&column=4&margin-w=20&margin-h=15&theme=matrix"
-      alt="SebastianAMo"
+      src="https://github-profile-trophy.vercel.app/?username=xcerock&column=4&margin-w=20&margin-h=15&theme=matrix"
+      alt="xcerock"
     />
   </a>
 </p>
