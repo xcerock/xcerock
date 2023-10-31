@@ -21,8 +21,8 @@
   <h2>Check my stats</h2>
   <p style="margin: 10px;">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianAMo&show_icons=true&locale=en&layout=compact&hide=jupyter%20%notebook&langs_count=10&count_private=true&theme=chartreuse-dark"
-      alt="SebastianAMo"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=xcerock&show_icons=true&locale=en&layout=compact&hide=jupyter%20%notebook&langs_count=10&count_private=true&theme=chartreuse-dark"
+      alt="xcerock"
     />
   </p>
   <p>
