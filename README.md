@@ -83,7 +83,7 @@
         rel="noreferrer"
       >
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+          src="https://raw.github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"
           alt="javascript"
           width="40"
           height="40"
