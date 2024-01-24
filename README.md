@@ -83,8 +83,8 @@
         rel="noreferrer"
       >
         <img
-          src="https://raw.github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"
-          alt="javascript"
+          src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"
+          alt="FastAPI"
           width="40"
           height="40"
         />
