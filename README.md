@@ -78,7 +78,7 @@
         />
       </a>
       <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        href="https://fastapi.tiangolo.com"
         target="_blank"
         rel="noreferrer"
       >
