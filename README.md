@@ -22,7 +22,7 @@ I’ve worked on:
 - Protein–ligand affinity prediction and biomedical ML
 - Clinical NLP and event-driven architectures (HL7/FHIR)
 - LLM agents for automation and scientific reporting
-- MLOps with MLflow, Databricks, Docker & Kubernetes in AWS and Azure :contentReference[oaicite:0]{index=0}
+- MLOps with MLflow, Databricks, Docker & Kubernetes in AWS and Azure
 
 ---
 
