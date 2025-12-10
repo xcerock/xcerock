@@ -108,12 +108,20 @@ Agente autónomo que genera reportes científicos y clínicos a partir de datos 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xcerock&theme=dark" alt="streak stats" />
+  <img 
+    title="🔥 GitHub Streak" 
+    alt="GitHub Streak" 
+    src="https://streak-stats.demolab.com?user=xcerock&theme=dark&hide_border=false"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xcerock&show_icons=true&count_private=true&theme=dark" alt="github stats" />
+  <img 
+    alt="GitHub Stats" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=xcerock&show_icons=true&count_private=true&theme=dark&hide_border=false"
+  />
 </p>
+
 
 ---
 
